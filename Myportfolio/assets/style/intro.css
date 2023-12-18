@@ -1,0 +1,15 @@
+.intro { display: flex; justify-content: center;
+        padding: 400px; 
+        background-color: gray; 
+        font-size:50px;
+        font-weight:800 ;
+        color: white; 
+       
+}
+
+.intro p { display: flex; }
+
+.cat-img {padding: 20px;
+        height: 160px;
+        /* TODO: 사진 테두리 둥글게 할것 */
+    }
